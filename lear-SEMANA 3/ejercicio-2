@@ -1,0 +1,7 @@
+def suma(a, b):
+  return a + b
+
+num1 = 89
+num2 = 60
+sumar = suma(num1, num2)
+print(f"La suma de {num1} y {num2} es: {sumar}")
